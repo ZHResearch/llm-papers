@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: "<strong>20230517</strong>"
+  - title: "<h2>20230517</h2>"
   - title: "Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness [Apr 2023]"
     url: https://arxiv.org/abs/2304.11633
     entries:
@@ -44,14 +44,14 @@ entries:
     entries:
       - title: This study evaluates the performance of ChatGPT on emotional dialogue understanding and generation through a series of experiments on several downstream tasks.
       - title: PPT made by Sun
-        url: /
+        url: /ppt/sun_sd2.pdf
   - title: How would Stance Detection Techniques Evolve after the Launch of ChatGPT? [Apr 2023]
     url: https://arxiv.org/abs/2212.14548
     entries:
       - title: For the stance detection tasks, experiments show that ChatGPT can achieve SOTA or similar performance for commonly used datasets including SemEval-2016 and P-Stance, and can provide explanation for its own prediction, which is beyond the capability of any existing model.
       - title: PPT made by Sun
-        url: /
-  - title: "<strong>20230503</strong>"
+        url: /ppt/sun_sd2.pdf
+  - title: "<h2>20230503</h2>"
   - title: Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study [Apr 2023]
     url: https://arxiv.org/abs/2304.04339
     entries:
@@ -88,7 +88,7 @@ entries:
       - title: An introduction to linguistic ambiguity, its varieties and their relevance in modern NLP, and an extensive empiric analysis are provided, as well as strategies to get the most of this model.
       - title: PPT made by Wang
         url: /ppt/wys_chatgpt5.3.pdf
-  - title: "<strong>20230419</strong>"
+  - title: "<h2>20230419</h2>"
   - title: Zero-Shot Information Extraction via Chatting with ChatGPT [Feb 2023]
     url: https://arxiv.org/abs/2302.10205
     entries:
