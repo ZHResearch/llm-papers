@@ -2,18 +2,64 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection
+  - title: Zero-Shot Information Extraction via Chatting with ChatGPT [Feb 2023]
+    url: https://arxiv.org/abs/2302.10205
+    entries:
+      - title: "This work transforms the zero-shot IE task into a multi-turn question-answering problem with a two-stage framework (ChatIE), and extensively evaluates the framework on three IE tasks: entity-relation triple extract, named entity recognition, and event extraction."
+      - title: PPT made by Liu
+        url: /ppt/liu_20230418.pdf
+  - title: "AugGPT: Leveraging ChatGPT for Text Data Augmentation [Feb 2023]"
+    url: https://arxiv.org/abs/2302.13007
+    entries:
+      - title: Experimental results on few-shot learning text classification tasks show the superior performance of the proposed AugGPT approach over state-of-the-art text data augmentation methods in terms of testing accuracy and distribution of the augmented samples.
+      - title: PPT made by Liu
+        url: /ppt/liu_20230418.pdf
+  - title: Is ChatGPT A Good Translator? Yes With GPT-4 As The Engine [Jan 2023]
+    url: https://arxiv.org/abs/2301.08745
+    entries:
+      - title: A preliminary evaluation of ChatGPT for machine translation, including translation prompt, multilingual translation, and translation robustness finds that it performs competitively with commercial translation products on high-resource European languages but lags behind significantly on low-resource or distant languages.
+      - title: PPT made by Sun
+        url: /
+  - title: How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection [Jan 2023]
     url: https://arxiv.org/abs/2301.07597
     entries:
-      - title: Biyang Guo et al., 18 Jan 2023
       - title: This work collected tens of thousands of comparison responses from both human experts and ChatGPT, with questions ranging from open-domain, financial, medical, legal, and psychological areas, and builds three different detection systems, explore several key factors that influence their effectiveness, and evaluate them in different scenarios.
       - title: PPT made by Sun
         url: /
-  - title: Extractive Summarization via ChatGPT for Faithful Summary Generation
+  - title: "WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset for Audio-Language Multimodal Research [Mar 2023]"
+    url: https://arxiv.org/abs/2303.17395
+    entries:
+      - title: This work introduces WavCaps, the first large-scale weakly-labelled audio captioning dataset, and proposes a three-stage processing pipeline for filtering noisy data and generating high-quality captions, where ChatGPT, a large language model, is leveraged to filter and transform raw descriptions automatically.
+      - title: PPT made by Wang
+        url: /ppt/wys_chatgpt4.19.pdf
+  - title: "Exploring the Feasibility of ChatGPT for Event Extraction [Mar 2023]"
+    url: https://arxiv.org/abs/2303.03836
+    entries:
+      - title: The usability testing experiments indicate that ChatGPT is not robust enough, and continuous refinement of the prompt does not lead to stable performance improvements, which can result in a poor user experience.
+      - title: PPT made by Wang
+        url: /ppt/wys_chatgpt4.19.pdf
+  - title: "Using Multiple RDF Knowledge Graphs for Enriching ChatGPT Responses [Apr 2023]"
+    url: https://arxiv.org/abs/2304.05774
+    entries:
+      - title: A research prototype, called GPToLODS, is presented, which is able to enrich any ChatGPT response with more information from hundreds of RDF KGs, and identifies and annotates each entity of the response with statistics and hyperlinks to LODsyndesis KG.
+      - title: PPT made by Chen
+        url: /
+  - title: "Zero-shot Temporal Relation Extraction with ChatGPT [Apr 2023]"
+    url: https://arxiv.org/abs/2304.05454
+    entries:
+      - title: It is found that ChatGPT cannot keep consistency during temporal inference and it fails in actively long-dependency temporal inference.
+      - title: PPT made by Chen
+        url: /
+  - title: Extractive Summarization via ChatGPT for Faithful Summary Generation [Apr 2023]
     url: https://arxiv.org/abs/2304.04193
     entries:
-      - title: Haopeng Zhang et al., 9 Apr 2023
       - title: It is found that applying an extract-then-generate pipeline with ChatGPT yields significant performance improvements over abstractive baselines in terms of summary faithfulness, and highlights potential directions for enhancing ChatG PT's capabilities for faithful text summarization tasks using two-stage approaches.
+      - title: PPT made by Xu
+        url: /ppt/xu_chatgpt_1.pdf
+  - title: Zero-shot Clinical Entity Recognition using ChatGPT [Mar 2023]
+    url: https://arxiv.org/abs/2303.16416
+    entries:
+      - title: This study investigated the potential of ChatGPT for the clinical named entity recognition task in a zero-shot setting with two different prompt strategies.
       - title: PPT made by Xu
         url: /ppt/xu_chatgpt_1.pdf
 
