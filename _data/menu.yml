@@ -20,13 +20,13 @@ entries:
     entries:
       - title: VicunaNER is a two-phase framework, where each phase leverages multi-turn dialogues with Vicuna to recognize entities from texts and names the second phase as Re-Recognition, which recognizes those entities not recognized in the first phase.
       - title: PPT made by Chen
-        url: /
+        url: /ppt/cxy_2023.05.17.pdf
   - title: Using ChatGPT for Entity Matching [May 2023]
     url: https://arxiv.org/abs/2305.03423
     entries:
       - title: This paper investigates using ChatGPT for entity matching as a more robust, training data-efficient alternative to traditional Transformer models, and shows that ChatGPT is competitive with a fine-tuned RoBERTa model, reaching an average zero-shot performance of 83% F1 on a challenging matching task.
       - title: PPT made by Chen
-        url: /
+        url: /ppt/cxy_2023.05.17.pdf
   - title: ChatGPT as a Text Simplification Tool to Remove Bias [May 2023]
     url: https://arxiv.org/abs/2305.06166
     entries:
@@ -69,13 +69,13 @@ entries:
     entries:
       - title: It is shown that with appropriate task-specific ChatGPT prompts, the use of data obtained from prompting a large generative language model,ChatGPT, to generate synthetic training data with the aim of augmenting data in low resource scenarios outperform the most popular existing approaches for such data augmentation.
       - title: PPT made by Chen
-        url: /
+        url: /ppt/cxy_2023.05.03.pdf
   - title: "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models [Mar 2023]"
     url: https://arxiv.org/abs/2303.04671
     entries:
       - title: A system to enable the user to interact with ChatGPT by sending and receiving not only languages but also images and providing complex visual questions or visual editing instructions that require the collaboration of multiple AI models with multi-steps, and opens the door to investigating the visual roles ofChatGPT with the help of Visual Foundation Models.
       - title: PPT made by Chen
-        url: /
+        url: /ppt/cxy_2023.05.03.pdf
   - title: Human-like Summarization Evaluation with ChatGPT [Apr 2023]
     url: https://arxiv.org/abs/2304.02554
     entries:
@@ -130,13 +130,13 @@ entries:
     entries:
       - title: A research prototype, called GPToLODS, is presented, which is able to enrich any ChatGPT response with more information from hundreds of RDF KGs, and identifies and annotates each entity of the response with statistics and hyperlinks to LODsyndesis KG.
       - title: PPT made by Chen
-        url: /
+        url: /ppt/cxy_2023.04.19.pdf
   - title: "Zero-shot Temporal Relation Extraction with ChatGPT [Apr 2023]"
     url: https://arxiv.org/abs/2304.05454
     entries:
       - title: It is found that ChatGPT cannot keep consistency during temporal inference and it fails in actively long-dependency temporal inference.
       - title: PPT made by Chen
-        url: /
+        url: /ppt/cxy_2023.04.19.pdf
   - title: Extractive Summarization via ChatGPT for Faithful Summary Generation [Apr 2023]
     url: https://arxiv.org/abs/2304.04193
     entries:
