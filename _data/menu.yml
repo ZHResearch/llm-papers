@@ -2,6 +2,93 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+  - title: "<strong>20230517</strong>"
+  - title: "Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness [Apr 2023]"
+    url: https://arxiv.org/abs/2304.11633
+    entries:
+      - title: "ChatGPT's performance in Standard-IE setting is poor, but it surprisingly exhibits excellent performance in the OpenIE setting, as evidenced by human evaluation, and indicates that ChatGPT provides high-quality and trustworthy explanations for its decisions."
+      - title: PPT made by Xu
+        url: /ppt/xs_chatgpt_2.pdf
+  - title: "ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs [May 2023]"
+    url: https://arxiv.org/abs/2305.03513
+    entries:
+      - title: A novel framework that leverages the power of ChatGPT for specific tasks, such as text classification, while improving its interpretability and providing a more transparent decision-making process compared with previous text classification methods is proposed.
+      - title: PPT made by Xu
+        url: /ppt/xs_chatgpt_2.pdf
+  - title: "VicunaNER: Zero/Few-shot Named Entity Recognition using Vicuna [May 2023]"
+    url: https://arxiv.org/abs/2305.03253
+    entries:
+      - title: VicunaNER is a two-phase framework, where each phase leverages multi-turn dialogues with Vicuna to recognize entities from texts and names the second phase as Re-Recognition, which recognizes those entities not recognized in the first phase.
+      - title: PPT made by Chen
+        url: /
+  - title: Using ChatGPT for Entity Matching [May 2023]
+    url: https://arxiv.org/abs/2305.03423
+    entries:
+      - title: This paper investigates using ChatGPT for entity matching as a more robust, training data-efficient alternative to traditional Transformer models, and shows that ChatGPT is competitive with a fine-tuned RoBERTa model, reaching an average zero-shot performance of 83% F1 on a challenging matching task.
+      - title: PPT made by Chen
+        url: /
+  - title: ChatGPT as a Text Simplification Tool to Remove Bias [May 2023]
+    url: https://arxiv.org/abs/2305.06166
+    entries:
+      - title: A possible technique for bias mitigation in the form of simplification of text is explored, which is that simplifying text should standardise language to one way of speaking while keeping the same meaning.
+      - title: PPT made by Liu
+        url: /ppt/liu_20230516.pdf
+  - title: "CodeIE: Large Code Generation Models are Better Few-Shot Information Extractors [May 2023]"
+    url: https://arxiv.org/abs/2305.05711
+    entries:
+      - title: This paper proposes to recast the structured output in the form of code instead of natural language and utilize generative LLMs of code (Code-LLMs) such as Codex to perform IE tasks, in particular, named entity recognition and relation extraction.
+      - title: PPT made by Liu
+        url: /ppt/liu_20230516.pdf
+  - title: Is ChatGPT Equipped with Emotional Dialogue Capabilities? [Apr 2023]
+    url: https://arxiv.org/abs/2304.09582
+    entries:
+      - title: This study evaluates the performance of ChatGPT on emotional dialogue understanding and generation through a series of experiments on several downstream tasks.
+      - title: PPT made by Sun
+        url: /
+  - title: How would Stance Detection Techniques Evolve after the Launch of ChatGPT? [Apr 2023]
+    url: https://arxiv.org/abs/2212.14548
+    entries:
+      - title: For the stance detection tasks, experiments show that ChatGPT can achieve SOTA or similar performance for commonly used datasets including SemEval-2016 and P-Stance, and can provide explanation for its own prediction, which is beyond the capability of any existing model.
+      - title: PPT made by Sun
+        url: /
+  - title: "<strong>20230503</strong>"
+  - title: Is ChatGPT a Good Sentiment Analyzer? A Preliminary Study [Apr 2023]
+    url: https://arxiv.org/abs/2304.04339
+    entries:
+      - title: A preliminary evaluation of ChatGPT on the understanding of opinions, sentiments, and emotions contained in the text and compares it with fine-tuned BERT and corresponding state-of-the-art (SOTA) models on end-task.
+      - title: PPT made by Liu
+        url: /ppt/liu_20230503.pdf
+  - title: Investigating Chain-of-thought with ChatGPT for Stance Detection on Social Media [Apr 2023]
+    url: https://arxiv.org/abs/2304.03087
+    entries:
+      - title: "This paper examines CoT's effectiveness in stance detection tasks, demonstrating its superior accuracy and discussing associated challenges."
+      - title: PPT made by Liu
+        url: /ppt/liu_20230503.pdf
+  - title: "ZeroShotDataAug: Generating and Augmenting Training Data with ChatGPT [Apr 2023]"
+    url: https://arxiv.org/abs/2304.14334
+    entries:
+      - title: It is shown that with appropriate task-specific ChatGPT prompts, the use of data obtained from prompting a large generative language model,ChatGPT, to generate synthetic training data with the aim of augmenting data in low resource scenarios outperform the most popular existing approaches for such data augmentation.
+      - title: PPT made by Chen
+        url: /
+  - title: "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models [Mar 2023]"
+    url: https://arxiv.org/abs/2303.04671
+    entries:
+      - title: A system to enable the user to interact with ChatGPT by sending and receiving not only languages but also images and providing complex visual questions or visual editing instructions that require the collaboration of multiple AI models with multi-steps, and opens the door to investigating the visual roles ofChatGPT with the help of Visual Foundation Models.
+      - title: PPT made by Chen
+        url: /
+  - title: Human-like Summarization Evaluation with ChatGPT [Apr 2023]
+    url: https://arxiv.org/abs/2304.02554
+    entries:
+      - title: ChatGPT was able to complete annotations relatively smoothly using Likert scale scoring, pairwise comparison, Pyramid, and binary factuality evaluation, and it outperformed commonly used automatic evaluation metrics on some datasets.
+      - title: PPT made by Wang
+        url: /ppt/wys_chatgpt5.3.pdf
+  - title: Linguistic ambiguity analysis in ChatGPT [Feb 2023]
+    url: https://arxiv.org/abs/2302.06426
+    entries:
+      - title: An introduction to linguistic ambiguity, its varieties and their relevance in modern NLP, and an extensive empiric analysis are provided, as well as strategies to get the most of this model.
+      - title: PPT made by Wang
+        url: /ppt/wys_chatgpt5.3.pdf
+  - title: "<strong>20230419</strong>"
   - title: Zero-Shot Information Extraction via Chatting with ChatGPT [Feb 2023]
     url: https://arxiv.org/abs/2302.10205
     entries:
