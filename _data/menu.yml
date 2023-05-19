@@ -8,13 +8,13 @@ entries:
       - title: Biyang Guo et al., 18 Jan 2023
       - title: This work collected tens of thousands of comparison responses from both human experts and ChatGPT, with questions ranging from open-domain, financial, medical, legal, and psychological areas, and builds three different detection systems, explore several key factors that influence their effectiveness, and evaluate them in different scenarios.
       - title: PPT made by Sun
-        url: https://github.com/
+        url: /
   - title: Extractive Summarization via ChatGPT for Faithful Summary Generation
     url: https://arxiv.org/abs/2304.04193
     entries:
       - title: Haopeng Zhang et al., 9 Apr 2023
       - title: It is found that applying an extract-then-generate pipeline with ChatGPT yields significant performance improvements over abstractive baselines in terms of summary faithfulness, and highlights potential directions for enhancing ChatG PT's capabilities for faithful text summarization tasks using two-stage approaches.
       - title: PPT made by Xu
-        url: https://github.com/
+        url: /ppt/xu_chatgpt_1.pdf
 
   
