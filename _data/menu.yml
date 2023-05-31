@@ -2,6 +2,31 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+  - title: "<h2>20230531</h2>"
+  - title: "Is Information Extraction Solved by ChatGPT? An Analysis of Performance, Evaluation Criteria, Robustness and Errors [May 2023]"
+    url: https://arxiv.org/abs/2305.14450
+    entries:
+      - title: "This paper evaluates ChatGPT's performance on 17 datasets with 14 IE sub-tasks under the zero-shot, few-shot and chain-of-thought scenarios, and finds a huge performance gap between ChatG PT and SOTA results, and proposes a soft-matching strategy for evaluation."
+      - title: PPT made by Xu
+        url: /ppt/xs_chatgpt_3.pdf
+  - title: "LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities [May 2023]"
+    url: https://arxiv.org/abs/2305.13168
+    entries:
+      - title: An exhaustive quantitative and qualitative evaluation of Large Language Models for Knowledge Graph (KG) construction and reasoning, which suggests that GPT-4 outperforms ChatGPT in the majority of tasks and even surpasses fine-tuned models in certain reasoning and question-answering datasets.
+      - title: PPT made by Xu
+        url: /ppt/xs_chatgpt_3.pdf
+  - title: "SummIt: Iterative Text Summarization via ChatGPT [May 2023]"
+    url: https://arxiv.org/abs/2305.14835
+    entries:
+      - title: This paper proposes SummIt, an iterative text summarization framework based on large language models like ChatGPT that enables the model to refine the generated summary iteratively through self-evaluation and feedback, closely resembling the iterative process humans undertake when drafting and revising summaries.
+      - title: PPT made by Chen
+        url: /ppt/cxy_2023.05.31.pdf
+  - title: "ClusterLLM: Large Language Models as a Guide for Text Clustering [May 2023]"
+    url: https://arxiv.org/abs/2305.14871
+    entries:
+      - title: ClusterLLM, a novel text clustering framework that leverages feedback from an instruction-tuned large language model, such as ChatGPT, consistently improves clustering quality, at an average cost of ~$0.6 per dataset.
+      - title: PPT made by Chen
+        url: /ppt/cxy_2023.05.31.pdf
   - title: "<h2>20230517</h2>"
   - title: "Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness [Apr 2023]"
     url: https://arxiv.org/abs/2304.11633
