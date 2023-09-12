@@ -2,6 +2,67 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+  - title: "<h2>20230822</h2>"
+  - title: "InstructUIE: Multi-task Instruction Tuning for Unified Information Extraction [Apr 2023]"
+    url: https://arxiv.org/abs/2304.08085
+    entries:
+      - title: "Experimental results demonstrate that the proposed InstructUIE method achieves comparable performance to Bert in supervised settings and significantly outperforms the state-of-the-art and gpt3.5 in zero-shot settings."
+  - title: "TELeR: A General Taxonomy of LLM Prompts for Benchmarking Complex Tasks [May 2023]"
+    url: https://arxiv.org/abs/2305.11430
+    entries:
+      - title: "A general taxonomy that can be used to design prompts with specific properties in order to perform a wide range of complex tasks is proposed that will allow future benchmarking studies to report the specific categories of prompts used as part of the study, enabling meaningful comparisons across different studies."
+  - title: "Did You Read the Instructions? Rethinking the Effectiveness of Task Definitions in Instruction Learning [ACL 2023]"
+    url: https://aclanthology.org/2023.acl-long.172/
+    entries:
+      - title: "This paper systematically study the role of task definitions in instruction learning, and proposes two strategies to help models better leverage task instructions: providing only key information for tasks in a common structured format, and adding a meta-tuning stage to help the model better understand the definitions."
+  - title: PPT made by Xu
+    url: /ppt/xs_20230822.pdf
+  - title: "<h2>20230808</h2>"
+  - title: "Finetuned Language Models Are Zero-Shot Learners [Sep 2021]"
+    url: https://arxiv.org/abs/2109.01652
+    entries:
+      - title: "It is shown that instruction tuning -- finetuning language models on a collection of tasks described via instructions -- substantially improves zero-shot performance on unseen tasks and outperforms few-shot GPT-3 by a large margin."
+  - title: "Self-Instruct: Aligning Language Models with Self-Generated Instructions [ACL 2023]"
+    url: https://aclanthology.org/2023.acl-long.754/
+    entries:
+      - title: "Self-Instruct is introduced, a framework for improving the instruction-following capabilities of pretrained language models by bootstrapping off their own generations by generating instructions, input, and output samples from a language model, then filters invalid or similar ones before using them to finetune the original model."
+  - title: "Maybe Only 0.5% Data is Needed: A Preliminary Exploration of Low Training Data Instruction Tuning [May 2023]"
+    url: https://arxiv.org/abs/2305.09246
+    entries:
+      - title: "A preliminary exploration into reducing the data used in LLM instruction tuning and identifies several observations regarding task specialization for LLM training, such as the optimization of performance for a specific task, the number of instruction types required for instruction tuning, and the amount of data required for task-specific models."
+  - title: "Specializing Smaller Language Models towards Multi-Step Reasoning [Jan 2023]"
+    url: https://arxiv.org/abs/2301.12726
+    entries:
+      - title: "This work shows two important aspects of model abilities: there exists a very complex balance/ tradeoff between language models' multi-dimensional abilities, and by paying the price of decreased generic ability, it can clearly lift up the scaling curve of models smaller than 10B towards a specialized multi-step math reasoning ability."
+  - title: "LogiCoT: Logical Chain-of-Thought Instruction-Tuning Data Collection with GPT-4 [May 2023]"
+    url: https://arxiv.org/abs/2305.12147
+    entries:
+      - title: "LogiCoT is presented, a new instruction-tuning dataset for Logical Chain-of-Thought reasoning with GPT-4 that serves as an instruction set for teaching models of logical reasoning and elicits general reasoning skills."
+  - title: "SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning [Aug 2023]"
+    url: https://arxiv.org/abs/2308.00436
+    entries:
+      - title: "This work proposes a zero-shot verification scheme to recognize individual errors within a step-by-step reasoning in large language models and uses it to improve question-answering performance, by using it to perform weighted voting on different generated answers."
+  - title: "Chinese Open Instruction Generalist: A Preliminary Release [Apr 2023]"
+    url: https://arxiv.org/abs/2304.07987
+    entries:
+      - title: "This work proposes the project as an attempt to create a Chinese instruction dataset by various methods adapted to the intrinsic characteristics of 4 sub-tasks by various Methods, collecting around 200k Chinese instruction tuning samples."
+  - title: PPT made by Xu
+    url: /ppt/xs_20230808.pdf
+  - title: "<h2>20230725</h2>"
+  - title: "Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond [Apr 2023]"
+    url: https://arxiv.org/abs/2304.13712
+    entries:
+      - title: "A comprehensive and practical guide for practitioners and end-users working with Large Language Models in their downstream natural language processing (NLP) tasks, enabling the successful implementation of these models in a wide range of NLP tasks."
+  - title: "A Survey of Large Language Models [Mar 2023]"
+    url: https://arxiv.org/abs/2303.18223
+    entries:
+      - title: "A review of the recent advances of large language models by introducing the background, key findings, and mainstream techniques, and focusing on four major aspects of LLMs, namely pre-training, adaptation tuning, utilization, and capacity evaluation."
+  - title: "Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning [Mar 2023]"
+    url: https://arxiv.org/abs/2303.10475
+    entries:
+      - title: "This survey paper tries to summarize and provide insights into the current research on instruction learning, particularly by answering the following questions: What is task instruction, and what instruction types exist?"
+  - title: PPT made by Xu
+    url: /ppt/xs_20230725.pdf
   - title: "<h2>20230531</h2>"
   - title: "Is Information Extraction Solved by ChatGPT? An Analysis of Performance, Evaluation Criteria, Robustness and Errors [May 2023]"
     url: https://arxiv.org/abs/2305.14450
