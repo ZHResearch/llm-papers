@@ -30,7 +30,7 @@ entries:
   - title: "Visual Instruction Tuning [Apr 2023]"
     url: https://arxiv.org/abs/2304.08485
     entries:
-      - title: This paper presents LLaVA: Large Language and Vision Assistant, an end-to-end trained large multimodal model that connects a vision encoder and LLM for general-purpose visual and language understanding and introduces GPT-4 generated visual instruction tuning data, the model and code base publicly available.
+      - title: "This paper presents LLaVA: Large Language and Vision Assistant, an end-to-end trained large multimodal model that connects a vision encoder and LLM for general-purpose visual and language understanding and introduces GPT-4 generated visual instruction tuning data, the model and code base publicly available."
       - title: PPT made by SunTiening
         url: /ppt/sun_sd3.pdf
   - title: "Are aligned neural networks adversarially aligned? [Jun 2023]"
