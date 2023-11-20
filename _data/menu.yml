@@ -20,13 +20,13 @@ entries:
     entries:
       - title: A straightforward synthetic-data intervention is presented that takes public NLP tasks and encourages models to be robust to user opinions on these tasks and can significantly reduce sycophantic behavior on held-out prompts.
       - title: PPT made by LiuChengwei
-        url: /
+        url: /liu_202311108.pdf
   - title: "Why Does ChatGPT Fall Short in Providing Truthful Answers? [Apr 2023]"
     url: https://arxiv.org/abs/2304.10513
     entries:
       - title: Analysis of the failures of ChatGPT in complex open-domain question answering and identifies the abilities under the failures indicates that furnishing the model with fine-grained external knowledge, hints for knowledge recall, and guidance for reasoning can empower the model to answer questions more truthfully.
       - title: PPT made by LiuChengwei
-        url: /
+        url: /liu_202311108.pdf
   - title: "Visual Instruction Tuning [Apr 2023]"
     url: https://arxiv.org/abs/2304.08485
     entries:
