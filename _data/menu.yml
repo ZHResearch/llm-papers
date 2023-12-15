@@ -2,6 +2,27 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+  - title: "<h2>20231122</h2>"
+  - title: "Heuristics-Driven Link-of-Analogy Prompting: Enhancing Large Language Models for Document-Level Event Argument Extraction [Nov 2023]"
+    url: https://arxiv.org/abs/2311.06555
+    entries:
+      - title: The Heuristic-Driven Link-of-Analogy (HD-LoA) prompting method is introduced, which enables LLMs to process new situations by drawing analogies to known situations, enhancing their adaptability and inspired by the analogical reasoning of human.
+  - title: "Leveraging Structured Information for Explainable Multi-hop Question Answering and Reasoning [Nov 2023]"
+    url: https://arxiv.org/abs/2311.03734
+    entries:
+      - title: This work investigates constructing and leveraging extracted semantic structures (graphs) for multi-hop question answering, especially the reasoning process, and generates more faithful reasoning chains and substantially improves the QA performance on two benchmark datasets.
+      - title: PPT made by XuSheng
+        url: /ppt/xs_20231122.pdf
+  - title: "ChatHaruhi: Reviving Anime Character in Reality via Large Language Model [Aug 2023]"
+    url: https://arxiv.org/abs/2308.09597
+    entries:
+      - title: Both automatic and human evaluations show the approach improves role-playing ability over baselines, and an algorithm that controls language models via an improved prompt and memories of the character extracted from scripts is proposed.
+  - title: "Adapting Fake News Detection to the Era of Large Language Models [Nov 2023]"
+    url: https://arxiv.org/abs/2311.04917
+    entries:
+      - title: A comprehensive evaluation of fake news detectors trained in various scenarios reveals an interesting pattern that detectors trained exclusively on human-written articles can indeed perform well at detecting machine-generated fake news, but not vice versa.
+      - title: PPT made by SunTiening
+        url: /ppt/sun_sd4.pdf
   - title: "<h2>20231108</h2>"
   - title: "CoF-CoT: Enhancing Large Language Models with Coarse-to-Fine Chain-of-Thought Prompting for Multi-domain NLU Tasks [Oct 2023]"
     url: https://arxiv.org/abs/2310.14623
