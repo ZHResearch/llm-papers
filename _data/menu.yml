@@ -13,6 +13,15 @@ entries:
       - title: This work investigates constructing and leveraging extracted semantic structures (graphs) for multi-hop question answering, especially the reasoning process, and generates more faithful reasoning chains and substantially improves the QA performance on two benchmark datasets.
       - title: PPT made by XuSheng
         url: /ppt/xs_20231122.pdf
+  - title: "Unveiling the Siren's Song: Towards Reliable Fact-Conflicting Hallucination Detection [Oct 2023]"
+    url: https://arxiv.org/abs/2310.12086
+    entries:
+      - title: FactCHD, a fact-conflicting hallucination detection benchmark meticulously designed for LLMs, and TRUTH-TRIANGULATOR that synthesizes reflective considerations by tool-enhanced ChatGPT and LoRA-tuning based on Llama2, aiming to yield more credible detection through the amalgamation of predictive results and evidence.
+  - title: "Can We Edit Multimodal Large Language Models? [Oct 2023]"
+    url: https://arxiv.org/abs/2310.08475
+    entries:
+      - title: A new benchmark is constructed, dubbed MMEdit, for editing multimodal LLMs and establishing a suite of innovative metrics for evaluation, to facilitate research in this area and provide the NLP community with insights.
+      - title: PPT made by LiuChengwei
   - title: "ChatHaruhi: Reviving Anime Character in Reality via Large Language Model [Aug 2023]"
     url: https://arxiv.org/abs/2308.09597
     entries:
@@ -23,6 +32,15 @@ entries:
       - title: A comprehensive evaluation of fake news detectors trained in various scenarios reveals an interesting pattern that detectors trained exclusively on human-written articles can indeed perform well at detecting machine-generated fake news, but not vice versa.
       - title: PPT made by SunTiening
         url: /ppt/sun_sd4.pdf
+  - title: "Large Language Models Are Reasoning Teachers [Jul 2023]"
+    url: https://aclanthology.org/2023.acl-long.830/
+    entries:
+      - title: This paper uses very large models as reasoning teachers to enable complex reasoning in smaller models and reduce model size requirements by several orders of magnitude, and proposes Fine-tune-CoT, a method that generates reasoning samples from very large teacher models to fine-tunes smaller models.
+  - title: "Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback [Feb 2023]"
+    url: https://arxiv.org/abs/2302.12813
+    entries:
+      - title: A LLM-Augmenter system, which augments a black-box LLM with a set of plug-and-play modules to significantly reduces ChatGPT's hallucinations without sacrificing the fluency and informativeness of its responses.
+      - title: PPT made by WangYongsheng
   - title: "<h2>20231108</h2>"
   - title: "CoF-CoT: Enhancing Large Language Models with Coarse-to-Fine Chain-of-Thought Prompting for Multi-domain NLU Tasks [Oct 2023]"
     url: https://arxiv.org/abs/2310.14623
