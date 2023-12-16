@@ -22,6 +22,7 @@ entries:
     entries:
       - title: A new benchmark is constructed, dubbed MMEdit, for editing multimodal LLMs and establishing a suite of innovative metrics for evaluation, to facilitate research in this area and provide the NLP community with insights.
       - title: PPT made by LiuChengwei
+        url: /ppt/liu_20231121.pdf
   - title: "ChatHaruhi: Reviving Anime Character in Reality via Large Language Model [Aug 2023]"
     url: https://arxiv.org/abs/2308.09597
     entries:
