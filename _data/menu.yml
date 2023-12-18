@@ -42,6 +42,7 @@ entries:
     entries:
       - title: A LLM-Augmenter system, which augments a black-box LLM with a set of plug-and-play modules to significantly reduces ChatGPT's hallucinations without sacrificing the fluency and informativeness of its responses.
       - title: PPT made by WangYongsheng
+        url: /ppt/wys_gpt20231121.pdf
   - title: "<h2>20231108</h2>"
   - title: "CoF-CoT: Enhancing Large Language Models with Coarse-to-Fine Chain-of-Thought Prompting for Multi-domain NLU Tasks [Oct 2023]"
     url: https://arxiv.org/abs/2310.14623
