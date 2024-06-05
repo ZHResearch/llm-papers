@@ -6,7 +6,7 @@ entries:
   - title: "BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions [Dec 2023]"
     url: https://arxiv.org/abs/2308.09936
     entries:
-      - title: BLIVA an augmented version of InstructBLIP with Visual Assistant, which incorporates the query embeddings from InstructBLIP and also directly projects encoded patch embeddings into the LLM, a technique inspired by LLaVA demonstrates significant capability in decoding real-world images, irrespective of text presence.
+      - title: BLIVA, an augmented version of InstructBLIP with Visual Assistant, which incorporates the query embeddings from InstructBLIP and also directly projects encoded patch embeddings into the LLM, a technique inspired by LLaVA demonstrates significant capability in decoding real-world images, irrespective of text presence.
   - title: "CLIPSyntel: CLIP and LLM Synergy for Multimodal Question Summarization in Healthcare [Dec 2023]"
     url: https://arxiv.org/abs/2312.11541
     entries:
